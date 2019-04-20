@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: qwxi
 baseurl: /blog
 markdown: redcarpet
 safe: false
